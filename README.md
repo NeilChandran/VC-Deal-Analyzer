@@ -21,7 +21,5 @@ A toolkit for venture capitalists and startup investors to analyze, simulate, an
 - **Deal Memo Automation:**  
   Generate professional deal memos and reports from your analysis inputs.
 
----
 
-## 📦 Repository Structure
 
